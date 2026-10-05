@@ -1,4 +1,4 @@
-# OC_Projet_13 Toolshare [![Build Status](https://app.travis-ci.com/R4mTex/P13_POUTOT_Simon.svg?branch=main)](https://app.travis-ci.com/R4mTex/P13_POUTOT_Simon)
+# OC_Projet_13 ToolShare [![Build Status](https://app.travis-ci.com/R4mTex/P13_POUTOT_Simon.svg?branch=main)](https://app.travis-ci.com/R4mTex/P13_POUTOT_Simon)
 
 The program is a web application where you can search for borrowable tools and equipment for your construction projects (with a contract system).
 
@@ -16,11 +16,11 @@ You will also need a valid API Key for using [Google Maps](https://developers.go
 
 First, retrieve my project with this command : 
 
-```git clone https://github.com/R4mTex/P13_POUTOT_Simon.git```
+```git clone https://github.com/R4mTex/ToolShare.git```
 
 then navigate to this folder :
 
-```cd P13_POUTOT_Simon```
+```cd ToolShare```
 
 To avoid interfering with other projects, it is recommended to run this one in a virtual environment. Here are the main commands for :
 
